@@ -1,0 +1,30 @@
+.DialogModalSM {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+  }
+  .screenWidth {
+    width: 60hv;
+  }
+  .screemWidthColum {
+    width: 49%;
+  }
+  .DisplayFlexSpaceBetween {
+    display: flex;
+    justify-content: space-between;
+  }
+  .widthInput {
+    width: 49%;
+  }
+  @media (max-width: 600px) {
+    .DialogModalSM {
+      display: block;
+    }
+    .screemWidthColum {
+      width: 99%;
+    }
+    .widthInput {
+      width: 49%;
+    }
+  }
+  

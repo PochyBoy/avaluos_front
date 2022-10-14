@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "codigo": "E001",
+      "description": "SANTA CRUZ",
+      "estado": true
+    },
+    {
+      "id": 2,
+      "codigo": "E002",
+      "description": "LA PAZ",
+      "estado": true
+    },
+    {
+      "id": 3,
+      "codigo": "E003",
+      "description": "COCHABAMBA",
+      "estado": true
+    },
+    {
+      "id": 4,
+      "codigo": "E004",
+      "description": "SUCRE",
+      "estado": false
+    },
+    {
+      "id": 4,
+      "codigo": "E005",
+      "description": "YUCUIBA",
+      "estado": false
+    },
+    {
+      "id": 4,
+      "codigo": "E006",
+      "description": "TARIJA",
+      "estado": false
+    },
+    {
+      "id": 4,
+      "codigo": "E007",
+      "description": "BERMEJO",
+      "estado": false
+    },
+    {
+      "id": 4,
+      "codigo": "E008",
+      "description": "ORURO",
+      "estado": false
+    },
+    {
+      "id": 4,
+      "codigo": "E009",
+      "description": "COBIJA",
+      "estado": false
+    },
+    {
+      "id": 4,
+      "codigo": "E010",
+      "description": "TRINIDAD",
+      "estado": false
+    },
+    {
+      "id": 4,
+      "codigo": "E011",
+      "description": "RIBERALTA",
+      "estado": false
+    },
+    {
+      "id": 4,
+      "codigo": "E012",
+      "description": "POTOSI",
+      "estado": false
+    },
+    {
+      "id": 4,
+      "codigo": "E013",
+      "description": "CULPINA",
+      "estado": false
+    }
+  ]
+}

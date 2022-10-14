@@ -1,0 +1,30 @@
+{
+    "data": [
+       
+        {
+            "id": 1,
+            "codigo": "E001",
+            "description": "Solicitante",
+            "estado": true
+        
+          } ,{
+            "id": 2,
+            "codigo": "E002",
+            "description": "Agente",
+            "estado": true
+        
+          }  ,{
+            "id": 3,
+            "codigo": "E003",
+            "description": "Municipio del bien",
+            "estado": true
+        
+          }  ,{
+            "id": 4,
+            "codigo": "E004",
+            "description": "Convenio",
+            "estado": false
+        
+          }       
+    ]
+}

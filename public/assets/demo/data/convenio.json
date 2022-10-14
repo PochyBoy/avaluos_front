@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "municipio": [
+        {
+          "codigo": "E001",
+          "description": "SANTA CRUZ",
+          "estado": true,
+          "id": 1
+        }
+      ],
+      "perito": { "name": "Francisco Jesus Bernabeu" },
+      "nombre_proyecto": "TRIM01",
+      "fecha_inicio": null,
+      "fecha_fin": null,
+      "estado": true
+    },
+    {
+      "id": 2,
+      "municipio": [
+        {
+          "codigo": "E001",
+          "description": "SANTA CRUZ",
+          "estado": true,
+          "id": 1
+        }
+      ],
+      "perito": { "name": "Francisco Manuel Fuster" },
+      "nombre_proyecto": "TRIM02",
+      "fecha_inicio": null,
+      "fecha_fin": null,
+      "estado": true
+    },
+    {
+      "id": 3,
+      "municipio": [
+        {
+          "codigo": "E001",
+          "description": "SANTA CRUZ",
+          "estado": true,
+          "id": 1
+        }
+      ],
+      "perito": { "name": "Ricard Lazaro" },
+      "nombre_proyecto": "TRIM03",
+      "fecha_inicio": null,
+      "fecha_fin": null,
+      "estado": true
+    },
+    {
+      "id": 4,
+      "municipio": [
+        {
+          "codigo": "E001",
+          "description": "SANTA CRUZ",
+          "estado": true,
+          "id": 1
+        }
+      ],
+      "perito": { "name": "Alexandre Rosell" },
+      "nombre_proyecto": "TRIM04",
+      "fecha_inicio": null,
+      "fecha_fin": null,
+      "estado": false
+    }
+  ]
+}

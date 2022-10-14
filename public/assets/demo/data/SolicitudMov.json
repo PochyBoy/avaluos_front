@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "id_solicitud": null,
+            "numero_solicitud": "0007",
+            "solicitante": "Francisco Jesus Bernabeu",
+            "fecha_solicitud": null,
+            "hora_solicitud": null,
+            "tipo_banca": "T005",
+            "tipo_bien": "T005",
+            "persona_referencia": "",
+            "agencia": "T005",
+            "municipio": null,
+            "cod_cliente": null,
+            "nombre_cliente": null,
+            "telefono_celular": "",
+            "correo_electronico": "",
+            "tipo_requerimiento": "",
+            "convenio": "",
+            "tipo_asignacion": "",
+            "perito_asignado": "",
+            "estado": false
+          }
+    ]
+  }
+  

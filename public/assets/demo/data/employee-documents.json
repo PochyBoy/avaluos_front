@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "codigo": "E0001",
+            "appaterno": "MARSTON    ",
+            "apmaterno": "DE MONTREUIL    ",
+            "nombres": "JAIME         ",
+            "nombre": "JAIME MARSTON DE MONTREUIL",
+            "ndocumento": "42088985",
+            "fecnac": null,
+            "telefono": "        ",
+            "email": "                            ",
+            "email2": null,
+            "cargo": "ADMINISTRADORA                                                                               ",
+            "fechai": null,
+            "fecces": null,
+            "documents": [
+                {
+                    "id": "1000",
+                    "anio": "2022",
+                    "mes": "Enero",
+                    "tipodocumento": "Contrato",
+                    "documento": "Contrato 2021-2022",
+                    "fechaenvio": "2020-09-13",
+                    "fechafirma": "2020-09-13",
+                    "status": "PENDIENTE"
+                },
+                {
+                    "id": "1001",
+                    "anio": "2022",
+                    "mes": "Enero",
+                    "tipodocumento": "Boleta",
+                    "documento": "Boleta Enero 2022",
+                    "fechaenvio": "2020-05-14",
+                    "fechafirma": "2020-05-14",
+                    "status": "ENVIADO"
+                },
+                {
+                    "id": "1002",
+                    "anio": "2022",
+                    "mes": "Febrero",
+                    "tipodocumento": "Boleta",
+                    "documento":  "Boleta Febrero 2022",
+                    "fechaenvio": "2019-01-04",
+                    "fechafirma": "2020-05-14",
+                    "status": "DEVUELTO"
+                }
+            ]
+        }
+        
+    ]
+}

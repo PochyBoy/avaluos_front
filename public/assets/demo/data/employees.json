@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "codigo": "E0001",
+            "appaterno": "LARREDA    ",
+            "apmaterno": "CORREA     ",
+            "nombres": "ELVIRA        ",
+            "nombre": "LARREDA CORREA ELVIRA        ",
+            "ndocumento": "02041417",
+            "fecnac": null,
+            "telefono": "3360000",
+            "email": "correo@correo.com",
+            "email2": null,
+            "cargo": "MAQUINARIA",
+            "fechai": null,
+            "fecces": null
+        },
+        {
+            "id": 2,
+            "codigo": "E0002",
+            "appaterno": "ILA    ",
+            "apmaterno": "CONTI    ",
+            "nombres": "MARIA        ",
+            "nombre": "MARIA ILA CONTI",
+            "ndocumento": "130648538",
+            "fecnac": null,
+            "telefono": "8422222",
+            "email": "maria@correo.com",
+            "email2": null,
+            "cargo": "EQUIPOS Y VEHICULOS",
+            "fechai": null,
+            "fecces": null
+        },
+        {
+            "id": 3,
+            "codigo": "E0003",
+            "appaterno": "YERAN      ",
+            "apmaterno": "OCOSO    ",
+            "nombres": "CECI         ",
+            "nombre": "CECI YERAN OCOSO  ",
+            "ndocumento": "40218845",
+            "fecnac": null,
+            "telefono": "4842035",
+            "email": "ceci@correo.com",
+            "email2": null,
+            "cargo": "INMUEBLES URBANOS",
+            "fechai": null,
+            "fecces": null
+        }
+    ]
+}

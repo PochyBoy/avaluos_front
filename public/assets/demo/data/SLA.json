@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "codigo": "AS1",
+      "actividad": "actividad 1",
+      "regla": "Regla 1",
+      "tiempo": null,
+      "observacion": "Opcion 1",
+      "estado": true
+    },
+    {
+      "id": "2",
+      "codigo": "AS2",
+      "actividad": "actividad 2",
+      "regla": "Regla 2",
+      "tiempo": null,
+      "observacion": "Opcion 2",
+      "estado": true
+    },
+    {
+      "id": "3",
+      "codigo": "AS3",
+      "actividad": "actividad 3",
+      "regla": "Regla 3",
+      "tiempo": null,
+      "observacion": "Opcion 3",
+      "estado": true
+    },
+    {
+      "id": "4",
+      "codigo": "AS4",
+      "actividad": "actividad 4",
+      "regla": "Regla 4",
+      "tiempo": null,
+      "observacion": "Opcion 4",
+      "estado": true
+    }
+  ]
+}

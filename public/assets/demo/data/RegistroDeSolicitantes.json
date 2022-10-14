@@ -1,0 +1,52 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "fecha_Inicio": null,
+        "fecha_Fin": null,
+        "nombre": "Jorge",
+        "domicilio": "",
+        "municipio": "",
+        "profesion": "",
+
+        "correo_Electronico": "Jorge@gmail.com",
+        "telefono_Oficina": "",
+        "telefono_Celular": "321654987",
+        "ci": "",
+        "nit": "",
+
+        "estado": true
+      },
+      {
+        "id": 2,
+        "fecha_Inicio": null,
+        "fecha_Fin": null,
+        "nombre": "Jorge",
+        "domicilio": "",
+        "municipio": "",
+        "profesion": "",
+        "correo_Electronico": "Jorge@gmail.com",
+        "telefono_Oficina": "",
+        "telefono_Celular": "321654987",
+        "ci": "",
+        "nit": "",
+        "estado": false
+      },
+      {
+        "id": 3,
+        "fecha_Inicio": null,
+        "fecha_Fin": null,
+        "nombre": "Jorge",
+        "domicilio": "",
+        "municipio": "",
+        "profesion": "",
+        "correo_Electronico": "Jorge@gmail.com",
+        "telefono_Oficina": "",
+        "telefono_Celular": "321654987",
+        "ci": "",
+        "nit": "",
+        "estado": false
+      }
+    ]
+  }
+  
